@@ -1,5 +1,8 @@
 # my ignore
 .DS_Store
+test.cpp
+main
+debug
 # Prerequisites
 *.d
 
