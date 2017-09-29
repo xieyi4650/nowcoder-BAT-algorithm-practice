@@ -2,7 +2,7 @@
 .DS_Store
 test.cpp
 main
-debug
+debug/
 # Prerequisites
 *.d
 
